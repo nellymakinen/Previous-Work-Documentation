@@ -1,23 +1,44 @@
-# 👋 Hi, I'm Nelly — Bioinformatics & Multi-Omics Researcher
+# 👋 Hi, I'm Nelly!
 
-*Specializing in genomics, transcriptomics, metabolomics & integrative pipelines.*
-
-<div align="center">
-
-🌱 MSc in Molecular Biotechnology
-🧬 Focus: Bioinformatics & computational biology
-📚 Interests: multi-omics integration, SNP annotation, structural variation, microbial genomics
-🔥 Enthusiastic about applying pipelines, HPC, and statistical models to complex biological data
-
-</div>
+<div align="center">🌱 MSc in Molecular Biotechnology</div>
+<div align="center">🧬 Focus: Bioinformatics & computational biology</div>
+<div align="center">📚 Interests: multi-omics integration, SNP annotation, structural variation, microbial genomics</div>
+<div align="center">🔥 Enthusiastic about applying pipelines, HPC, and statistical models to complex biological data</div>
 
 ---
 
 ## 🧪 Core Bioinformatics Skills
 
+### 📊 Skills Graph
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Genome%20Assembly-Canu%20%7C%20Bowtie2%20%7C%20BWA-6aa84f?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RNA--seq-DESeq2%20%7C%20HTSeq--count%20%7C%20FastQC-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Structural%20Variants-Manta%20%7C%20IGV%20%7C%20mapDamage-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Omics-mixOmics%20%7C%20PLS--DA%20%7C%20DIABLO-ff69b4?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Pipelines-NCBI%20API%20%7C%20JSON%20%7C%20PharmGKB%20%7C%20CTDbase-8e44ad?style=for-the-badge" />
+</p>
+
+
 ### **🔧 Sequencing QC & Preprocessing**
 
-`Trimmomatic` · `FastQC` · `MultiQC` · `mapDamage` · DNA nanoball sequencing (BGISEQ-500)
+`Trimmomatic` · `FastQC` · `MultiQC` · `mapDamage` 
 
 ---
 
@@ -94,10 +115,10 @@ Custom-written pipelines for genome annotation & SNP analysis:
 
 ## 📫 Contact
 
-**📧 Email:** *nellyymakinen@gmail.com*
-**🌐 LinkedIn:** *https://www.linkedin.com/in/nelly-m%C3%A4kinen-ab1b19201/*
+* **📧 Email:** *nellyymakinen@gmail.com*
+* **🌐 LinkedIn:** *https://www.linkedin.com/in/nelly-m%C3%A4kinen-ab1b19201/*
 
 ---
 
-⭐ *Feel free to explore my repositories — many contain complete workflows, scripts, and documented pipelines for real bioinformatics projects.*
+⭐ *Feel free to explore my repositories: many contain complete workflows, scripts, and documented pipelines for my bioinformatics projects.*
  
